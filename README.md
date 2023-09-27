@@ -1,1 +1,1 @@
-# puppet-ntfy
+# puppet-icinga-ntfy
