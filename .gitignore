@@ -1,0 +1,7 @@
+/dependencies
+/.settings/
+/.project
+.*.swp
+/.pydevproject
+*.DS_Store
+/.buildpath
